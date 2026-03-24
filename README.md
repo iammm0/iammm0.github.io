@@ -35,6 +35,10 @@
 - 整理项目展示与技术文章
 - 持续打磨 AI + Backend 实战项目
 
+## 业余探索
+
+- 业余时间会继续深入探索 Kotlin、Scala、Rust、JavaScript 和 C++，如果有那么一天的话（嘿嘿）
+
 ---
 
 Welcome to my corner on GitHub.
