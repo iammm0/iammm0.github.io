@@ -5,12 +5,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-iammm0-181717?style=for-the-badge&logo=github)](https://github.com/iammm0)
 ![Profile Views](https://komarev.com/ghpvc/?username=iammm0&style=for-the-badge&color=0e75b6)
 
-## 关于我
-
-- 热爱技术与创造，正在持续打造个人主页与作品集
-- 主力语言：Go、TypeScript、Python
-- 目标：沉淀项目、记录成长、长期输出
-
 ## 常用语言
 
 ![Languages](https://skillicons.dev/icons?i=go,ts,python)
@@ -28,12 +22,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iammm0&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammm0&layout=compact&theme=tokyonight&hide_border=true)
-
-## 正在做的事
-
-- 完善个人主页视觉风格
-- 整理项目展示与技术文章
-- 持续打磨 AI + Backend 实战项目
 
 ## 业余探索
 
