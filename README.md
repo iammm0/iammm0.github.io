@@ -6,8 +6,8 @@
 
 <br>
 
-[![CN](https://img.shields.io/badge/🇨🇳_中文-000000?style=for-the-badge)](#-关于我)
-[![EN](https://img.shields.io/badge/🇬🇧_English-000000?style=for-the-badge)](#-about-me)
+<a href="#-关于我"><img alt="CN" src="https://img.shields.io/badge/🇨🇳_中文-000000?style=for-the-badge" /></a>
+<a href="#-about-me"><img alt="EN" src="https://img.shields.io/badge/🇬🇧_English-000000?style=for-the-badge" /></a>
 
 <br>
 
@@ -19,9 +19,9 @@
 <br>
 
 <!-- Status Badges -->
-[![Available](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-00f5ff?style=flat-square&labelColor=0a0a0f)](#)
-[![Target](https://img.shields.io/badge/🎯_2022--2026-Applied_Physics_→_CS-bf5af2?style=flat-square&labelColor=0a0a0f)](#)
-[![Email](https://img.shields.io/badge/📬-wisewater5419@gmail.com-ff2d55?style=flat-square&labelColor=0a0a0f)](mailto:wisewater5419@gmail.com)
+<a href="#"><img alt="Available" src="https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-00f5ff?style=flat-square&labelColor=0a0a0f" /></a>
+<a href="#"><img alt="Target" src="https://img.shields.io/badge/🎯_2022--2026-Applied_Physics_→_CS-bf5af2?style=flat-square&labelColor=0a0a0f" /></a>
+<a href="mailto:wisewater5419@gmail.com"><img alt="Email" src="https://img.shields.io/badge/📬-wisewater5419@gmail.com-ff2d55?style=flat-square&labelColor=0a0a0f" /></a>
 
 </div>
 
@@ -148,14 +148,14 @@ print("Hello, world!")
 
 <div align="center">
 
-![Core Stack](https://skillicons.dev/icons?i=go,ts,python,fastapi,docker,mysql,sqlite,redis)
+<img alt="Core Stack" src="https://skillicons.dev/icons?i=go,ts,python,fastapi,docker,mysql,sqlite,redis" />
 
 <br>
 
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graphql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+<img alt="Gin" src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graphql&logoColor=white" />
+<img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
 
 </div>
 
@@ -167,17 +167,17 @@ print("Hello, world!")
 
 <div align="center">
 
-![Interest Stack](https://skillicons.dev/icons?i=nextjs,kubernetes,mongodb,kotlin,scala,rust,cpp,tauri,swift)
+<img alt="Interest Stack" src="https://skillicons.dev/icons?i=nextjs,kubernetes,mongodb,kotlin,scala,rust,cpp,tauri,swift" />
 
 <br>
 
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![Kratos](https://img.shields.io/badge/Kratos-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
-![Tauri2](https://img.shields.io/badge/Tauri2-FFC131?style=for-the-badge&logo=tauri&logoColor=111111)
-![React Ink](https://img.shields.io/badge/React%20Ink-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img alt="Kratos" src="https://img.shields.io/badge/Kratos-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+<img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Ktor" src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white" />
+<img alt="Tauri2" src="https://img.shields.io/badge/Tauri2-FFC131?style=for-the-badge&logo=tauri&logoColor=111111" />
+<img alt="React Ink" src="https://img.shields.io/badge/React%20Ink-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div>
 
@@ -189,10 +189,10 @@ print("Hello, world!")
 
 <div align="center">
 
-![Current Target](https://img.shields.io/badge/当前在投-AI%20Agent%20应用开发工程师-2563EB?style=for-the-badge&logo=openai&logoColor=white)
+<img alt="Current Target" src="https://img.shields.io/badge/当前在投-AI%20Agent%20应用开发工程师-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
 
-![Future Goal](https://img.shields.io/badge/未来方向1-AI%20Security-7C3AED?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Future Goal](https://img.shields.io/badge/未来方向2-云原生工程师-0EA5E9?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img alt="Future Goal 1" src="https://img.shields.io/badge/未来方向1-AI%20Security-7C3AED?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img alt="Future Goal 2" src="https://img.shields.io/badge/未来方向2-云原生工程师-0EA5E9?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 </div>
 
@@ -209,7 +209,7 @@ print("Hello, world!")
 <td width="50%">
 
 ### 🤖 [SecBot](https://github.com/iammm0/secbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=secbot&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93)](https://github.com/iammm0/secbot)
+<a href="https://github.com/iammm0/secbot"><img alt="Readme Card - SecBot" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=secbot&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93" /></a>
 
 > 🛡️ 安全领域 AI Bot — 智能安全助手
 
@@ -217,7 +217,7 @@ print("Hello, world!")
 <td width="50%">
 
 ### 🧠 [MPH-Agent](https://github.com/iammm0/mph-agent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=mph-agent&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93)](https://github.com/iammm0/mph-agent)
+<a href="https://github.com/iammm0/mph-agent"><img alt="Readme Card - MPH-Agent" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=mph-agent&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93" /></a>
 
 > 🔗 多智能体协作系统 — Multi-Process Hybrid Agent
 
@@ -227,7 +227,7 @@ print("Hello, world!")
 <td width="50%">
 
 ### 📚 [Advanced-RAG](https://github.com/iammm0/advanced-rag)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=advanced-rag&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93)](https://github.com/iammm0/advanced-rag)
+<a href="https://github.com/iammm0/advanced-rag"><img alt="Readme Card - Advanced-RAG" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=advanced-rag&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93" /></a>
 
 > 🔍 高级检索增强生成 — Advanced RAG Pipeline
 
@@ -235,7 +235,7 @@ print("Hello, world!")
 <td width="50%">
 
 ### 🌱 [GrowForever](https://github.com/iammm0/growforever)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=growforever&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93)](https://github.com/iammm0/growforever)
+<a href="https://github.com/iammm0/growforever"><img alt="Readme Card - GrowForever" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=growforever&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93" /></a>
 
 > 🌿 持续成长计划 — Personal Growth Tracker
 
@@ -245,7 +245,7 @@ print("Hello, world!")
 <td colspan="2" align="center">
 
 ### 🎵 [Waibi-Waibi](https://github.com/iammm0/waibi-waibi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=waibi-waibi&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93)](https://github.com/iammm0/waibi-waibi)
+<a href="https://github.com/iammm0/waibi-waibi"><img alt="Readme Card - Waibi-Waibi" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=waibi-waibi&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93" /></a>
 
 > 🎶 Waibi Waibi ~ 有趣的个人项目
 
@@ -401,14 +401,14 @@ College was the first time I experienced how **losing contact with someone you o
 
 <div align="center">
 
-![Core Stack](https://skillicons.dev/icons?i=go,ts,python,fastapi,docker,mysql,sqlite,redis)
+<img alt="Core Stack" src="https://skillicons.dev/icons?i=go,ts,python,fastapi,docker,mysql,sqlite,redis" />
 
 <br>
 
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graphql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+<img alt="Gin" src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graphql&logoColor=white" />
+<img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
 
 </div>
 
@@ -420,17 +420,17 @@ College was the first time I experienced how **losing contact with someone you o
 
 <div align="center">
 
-![Interest Stack](https://skillicons.dev/icons?i=nextjs,kubernetes,mongodb,kotlin,scala,rust,cpp,tauri,swift)
+<img alt="Interest Stack" src="https://skillicons.dev/icons?i=nextjs,kubernetes,mongodb,kotlin,scala,rust,cpp,tauri,swift" />
 
 <br>
 
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![Kratos](https://img.shields.io/badge/Kratos-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
-![Tauri2](https://img.shields.io/badge/Tauri2-FFC131?style=for-the-badge&logo=tauri&logoColor=111111)
-![React Ink](https://img.shields.io/badge/React%20Ink-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img alt="Kratos" src="https://img.shields.io/badge/Kratos-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+<img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Ktor" src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white" />
+<img alt="Tauri2" src="https://img.shields.io/badge/Tauri2-FFC131?style=for-the-badge&logo=tauri&logoColor=111111" />
+<img alt="React Ink" src="https://img.shields.io/badge/React%20Ink-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div>
 
@@ -442,10 +442,10 @@ College was the first time I experienced how **losing contact with someone you o
 
 <div align="center">
 
-![Current Target](https://img.shields.io/badge/Currently_Pursuing-AI%20Agent%20Application%20Developer-2563EB?style=for-the-badge&logo=openai&logoColor=white)
+<img alt="Current Target" src="https://img.shields.io/badge/Currently_Pursuing-AI%20Agent%20Application%20Developer-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
 
-![Future Goal](https://img.shields.io/badge/Future_Path_1-AI%20Security-7C3AED?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Future Goal](https://img.shields.io/badge/Future_Path_2-Cloud%20Native%20Engineer-0EA5E9?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img alt="Future Goal 1" src="https://img.shields.io/badge/Future_Path_1-AI%20Security-7C3AED?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img alt="Future Goal 2" src="https://img.shields.io/badge/Future_Path_2-Cloud%20Native%20Engineer-0EA5E9?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 </div>
 
@@ -455,8 +455,6 @@ College was the first time I experienced how **losing contact with someone you o
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Description | Tech |
 |---------|------------|------|
 | 🤖 **[SecBot](https://github.com/iammm0/secbot)** | AI-powered Security Bot | `AI` `Security` `Agent` |
@@ -464,8 +462,6 @@ College was the first time I experienced how **losing contact with someone you o
 | 📚 **[Advanced-RAG](https://github.com/iammm0/advanced-rag)** | Advanced Retrieval-Augmented Generation | `RAG` `Qdrant` `LLM` |
 | 🌱 **[GrowForever](https://github.com/iammm0/growforever)** | Personal Growth Tracking System | `Full Stack` `Growth` |
 | 🎵 **[Waibi-Waibi](https://github.com/iammm0/waibi-waibi)** | A fun personal project | `Creative` `Fun` |
-
-</div>
 
 <br>
 
@@ -531,17 +527,17 @@ College was the first time I experienced how **losing contact with someone you o
 
 <div align="center">
 
-## 📬 Let's Connect / 联系我
+<h2>📬 Let's Connect / 联系我</h2>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-iammm0-0a0a0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iammm0)
-[![Email](https://img.shields.io/badge/Email-wisewater5419-ff2d55?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wisewater5419@gmail.com)
+<a href="https://github.com/iammm0"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-iammm0-0a0a0f?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:wisewater5419@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wisewater5419-ff2d55?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br><br>
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=iammm0&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=iammm0&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br><br>
 
