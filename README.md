@@ -165,7 +165,7 @@
 <td width="50%">
 
 ### 🤖 [SecBot](https://github.com/iammm0/secbot)
-<a href="https://github.com/iammm0/secbot"><img alt="Readme Card - SecBot" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=secbot&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93" /></a>
+<a href="https://github.com/iammm0/secbot"><img alt="Readme Card - SecBot" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=secbot&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
 > 🛡️ 安全领域 AI Bot — 智能安全助手
 
@@ -173,7 +173,7 @@
 <td width="50%">
 
 ### 🧠 [MPH-Agent](https://github.com/iammm0/mph-agent)
-<a href="https://github.com/iammm0/mph-agent"><img alt="Readme Card - MPH-Agent" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=mph-agent&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93" /></a>
+<a href="https://github.com/iammm0/mph-agent"><img alt="Readme Card - MPH-Agent" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=mph-agent&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
 > 🔗 多智能体协作系统 — Multi-Process Hybrid Agent
 
@@ -183,7 +183,7 @@
 <td width="50%">
 
 ### 📚 [Advanced-RAG](https://github.com/iammm0/advanced-rag)
-<a href="https://github.com/iammm0/advanced-rag"><img alt="Readme Card - Advanced-RAG" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=advanced-rag&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93" /></a>
+<a href="https://github.com/iammm0/advanced-rag"><img alt="Readme Card - Advanced-RAG" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=advanced-rag&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
 > 🔍 高级检索增强生成 — Advanced RAG Pipeline
 
@@ -191,7 +191,7 @@
 <td width="50%">
 
 ### 🌱 [GrowForever](https://github.com/iammm0/growforever)
-<a href="https://github.com/iammm0/growforever"><img alt="Readme Card - GrowForever" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=growforever&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93" /></a>
+<a href="https://github.com/iammm0/growforever"><img alt="Readme Card - GrowForever" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=growforever&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
 > 🌿 持续成长计划 — Personal Growth Tracker
 
@@ -201,7 +201,7 @@
 <td width="50%">
 
 ### ⚙️ [ExecGo](https://github.com/iammm0/execgo)
-<a href="https://github.com/iammm0/execgo"><img alt="Readme Card - ExecGo" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=execgo&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93" /></a>
+<a href="https://github.com/iammm0/execgo"><img alt="Readme Card - ExecGo" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=execgo&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
 > ⚡ AI Agent 单节点执行内核 — Minimal AI Execution Engine
 
@@ -209,7 +209,7 @@
 <td width="50%">
 
 ### 🎵 [Waibi-Waibi](https://github.com/iammm0/waibi-waibi)
-<a href="https://github.com/iammm0/waibi-waibi"><img alt="Readme Card - Waibi-Waibi" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=waibi-waibi&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93" /></a>
+<a href="https://github.com/iammm0/waibi-waibi"><img alt="Readme Card - Waibi-Waibi" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=waibi-waibi&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
 > 🎶 Waibi Waibi ~ 有趣的个人项目
 
@@ -225,22 +225,26 @@
 
 ## 📊 GitHub 数据
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iammm0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93&ring_color=00f5ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammm0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&text_color=8e8e93" />
-
-<br><br>
-
-<!-- Streak Stats -->
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=iammm0&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00f5ff&fire=bf5af2&currStreakLabel=00f5ff&sideLabels=8e8e93&dates=8e8e93&stroke=1a1a2e" />
-
-<br><br>
-
-<!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=iammm0&bg_color=0a0a0f&color=00f5ff&line=bf5af2&point=00f5ff&area=true&area_color=bf5af2&hide_border=true" />
-
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=iammm0&show_icons=true&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e&ring_color=0366d6" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammm0&layout=compact&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=iammm0&theme=github&hide_border=true&background=ffffff&ring=0366d6&fire=bf5af2&currStreakLabel=0366d6&sideLabels=24292e&dates=24292e&stroke=e1e4e8" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iammm0&bg_color=ffffff&color=0366d6&line=0366d6&point=0366d6&area=true&area_color=0366d6&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -434,20 +438,26 @@ College was the first time I experienced how **losing contact with someone you o
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iammm0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&icon_color=bf5af2&text_color=8e8e93&ring_color=00f5ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammm0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5ff&text_color=8e8e93" />
-
-<br><br>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=iammm0&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00f5ff&fire=bf5af2&currStreakLabel=00f5ff&sideLabels=8e8e93&dates=8e8e93&stroke=1a1a2e" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=iammm0&bg_color=0a0a0f&color=00f5ff&line=bf5af2&point=00f5ff&area=true&area_color=bf5af2&hide_border=true" />
-
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=iammm0&show_icons=true&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e&ring_color=0366d6" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammm0&layout=compact&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=iammm0&theme=github&hide_border=true&background=ffffff&ring=0366d6&fire=bf5af2&currStreakLabel=0366d6&sideLabels=24292e&dates=24292e&stroke=e1e4e8" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iammm0&bg_color=ffffff&color=0366d6&line=0366d6&point=0366d6&area=true&area_color=0366d6&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -519,11 +529,9 @@ College was the first time I experienced how **losing contact with someone you o
 <br>
 <sub>*"回应就是目的，人类在某种程度上也是种抽象的计算机模型。"*</sub>
 
-<sub>*"Response is the purpose. Humans, to some degree, are also a kind of abstract computational model."*</sub>
-
 <br>
 
-<sub>Built with ♥ by **iammm0** · Physics → Code → AI · 2022 — 2026</sub>
+<sub>由 <strong>iammm0</strong> 以 ♥ 制作 · Physics → Code → AI · 2022 — 2026</sub>
 
 </div>
 
