@@ -164,54 +164,54 @@
 <tr>
 <td width="50%">
 
-### 🤖 [SecBot](https://github.com/iammm0/secbot)
+<h3>🤖 <a href="https://github.com/iammm0/secbot">SecBot</a></h3>
 <a href="https://github.com/iammm0/secbot"><img alt="Readme Card - SecBot" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=secbot&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
-> 🛡️ 安全领域 AI Bot — 智能安全助手
+<p>🛡️ 安全领域 AI Bot — 智能安全助手</p>
 
 </td>
 <td width="50%">
 
-### 🧠 [MPH-Agent](https://github.com/iammm0/mph-agent)
+<h3>🧠 <a href="https://github.com/iammm0/mph-agent">MPH-Agent</a></h3>
 <a href="https://github.com/iammm0/mph-agent"><img alt="Readme Card - MPH-Agent" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=mph-agent&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
-> 🔗 多智能体协作系统 — Multi-Process Hybrid Agent
+<p>🔗 多智能体协作系统 — Multi-Process Hybrid Agent</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📚 [Advanced-RAG](https://github.com/iammm0/advanced-rag)
+<h3>📚 <a href="https://github.com/iammm0/advanced-rag">Advanced-RAG</a></h3>
 <a href="https://github.com/iammm0/advanced-rag"><img alt="Readme Card - Advanced-RAG" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=advanced-rag&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
-> 🔍 高级检索增强生成 — Advanced RAG Pipeline
+<p>🔍 高级检索增强生成 — Advanced RAG Pipeline</p>
 
 </td>
 <td width="50%">
 
-### 🌱 [GrowForever](https://github.com/iammm0/growforever)
+<h3>🌱 <a href="https://github.com/iammm0/growforever">GrowForever</a></h3>
 <a href="https://github.com/iammm0/growforever"><img alt="Readme Card - GrowForever" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=growforever&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
-> 🌿 持续成长计划 — Personal Growth Tracker
+<p>🌿 持续成长计划 — Personal Growth Tracker</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ⚙️ [ExecGo](https://github.com/iammm0/execgo)
+<h3>⚙️ <a href="https://github.com/iammm0/execgo">ExecGo</a></h3>
 <a href="https://github.com/iammm0/execgo"><img alt="Readme Card - ExecGo" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=execgo&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
-> ⚡ AI Agent 单节点执行内核 — Minimal AI Execution Engine
+<p>⚡ AI Agent 单节点执行内核 — Minimal AI Execution Engine</p>
 
 </td>
 <td width="50%">
 
-### 🎵 [Waibi-Waibi](https://github.com/iammm0/waibi-waibi)
+<h3>🎵 <a href="https://github.com/iammm0/waibi-waibi">Waibi-Waibi</a></h3>
 <a href="https://github.com/iammm0/waibi-waibi"><img alt="Readme Card - Waibi-Waibi" src="https://github-readme-stats.vercel.app/api/pin/?username=iammm0&repo=waibi-waibi&theme=github&hide_border=true&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" /></a>
 
-> 🎶 Waibi Waibi ~ 有趣的个人项目
+<p>🎶 Waibi Waibi ~ 有趣的个人项目</p>
 
 </td>
 </tr>
