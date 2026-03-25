@@ -246,7 +246,7 @@
 
 ---
 
-<!-- ==================== ENGLISH VERSION ==================== -->
+<!-- ==================== ENGLISH VERSION ====================
 
 <div align="center">
   <img src="https://img.shields.io/badge/-ENGLISH%20VERSION-bf5af2?style=for-the-badge&labelColor=0a0a0f" />
@@ -452,7 +452,7 @@ College was the first time I experienced how **losing contact with someone you o
 <br>
 
 ---
-
+-->
 <!-- ==================== TIMELINE ==================== -->
 
 <div align="center">
@@ -510,7 +510,6 @@ College was the first time I experienced how **losing contact with someone you o
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iammm0/iammm0/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iammm0/iammm0/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/iammm0/iammm0/output/github-snake-dark.svg" />
 </picture>
 
 <br><br>
