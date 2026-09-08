@@ -64,6 +64,19 @@ and domain-specific automation that can move from a demo into a real workflow.
       <code>Documentation</code> <code>Agent Engineering</code> <code>MDX</code>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/iammm0">
+        <img src="./assets/iammm0.jpg" width="88" alt="iammm0 profile avatar">
+      </a>
+      <br><br>
+      <strong><a href="https://github.com/iammm0">iammm0</a></strong>
+      <br>
+      My engineering profile: a collection of open-source work across AI Agent systems, security tooling, execution infrastructure, and applied automation.
+      <br><br>
+      <code>Open Source</code> <code>AI Agent</code> <code>Engineering Profile</code>
+    </td>
+  </tr>
 </table>
 
 ### Other work
