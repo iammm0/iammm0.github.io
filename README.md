@@ -40,12 +40,34 @@ and domain-specific automation that can move from a demo into a real workflow.
       <code>Go</code> <code>Runtime</code> <code>Infrastructure</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/iammm0/mph-agent">
+        <img src="./assets/mph-agent.png" width="88" alt="MPH-Agent logo">
+      </a>
+      <br><br>
+      <strong><a href="https://github.com/iammm0/mph-agent">MPH-Agent</a></strong>
+      <br>
+      A domain-specific agent that turns natural-language COMSOL requirements into complete simulation models across geometry, physics, meshing, studies, and solving.
+      <br><br>
+      <code>Python</code> <code>COMSOL</code> <code>Domain Agent</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://damnagent.org">
+        <img src="./assets/damn-agent.png" width="88" alt="Damn Agent logo">
+      </a>
+      <br><br>
+      <strong><a href="https://damnagent.org">Damn Agent</a></strong>
+      <br>
+      A Chinese learning resource for understanding, building, and evaluating AI Agent systems.
+      <br><br>
+      <code>Documentation</code> <code>Agent Engineering</code> <code>MDX</code>
+    </td>
+  </tr>
 </table>
 
 ### Other work
 
-- **[MPH-Agent](https://github.com/iammm0/mph-agent)** — Converts natural-language COMSOL requirements into complete `.mph` simulation models.
-- **[Damn Agent](https://damnagent.org)** — A Chinese learning resource for understanding and building AI Agent systems.
 - **[execgo-runtime](https://github.com/iammm0/execgo-runtime)** — A process-level data-plane runtime with persistence, cancellation, resource policy, and artifact auditing.
 
 ## Engineering focus
